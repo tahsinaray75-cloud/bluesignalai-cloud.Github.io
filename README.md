@@ -1,2 +1,3 @@
 # bluesignalai-cloud.Github.io
-Situs resmi untuk app-ads.txt bluesignal.ai
+
+google.com, pub-6291835968667157, DIRECT, f08c47fec0942fa0
